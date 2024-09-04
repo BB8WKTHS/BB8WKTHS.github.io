@@ -3,8 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-15 and im a Goober and just do random stuff with code on this page since
 <script>
     function updateTime2() {
     const now = new Date();
