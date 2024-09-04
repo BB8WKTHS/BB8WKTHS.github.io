@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+- s
+  
 <script>
     function updateTime2() {
     const now = new Date();
@@ -17,6 +19,5 @@ permalink: /about/
     setInterval(updateTime2, 1000);
 </script>
 
-### Contact me
+### Contact us
 
-[grapejellyjamandpenutbuter@gmail.com](grapejellyjamandpenutbuter@gmail.com)
